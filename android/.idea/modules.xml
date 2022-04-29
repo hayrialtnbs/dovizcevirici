@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dovizcevirici.iml" filepath="$PROJECT_DIR$/.idea/modules/dovizcevirici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dovizcevirici.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dovizcevirici.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1682773042/dovizcevirici.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1682773042/dovizcevirici.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1486827320/dovizcevirici.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1486827320/dovizcevirici.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2106778442/dovizcevirici.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/2106778442/dovizcevirici.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/804658877/dovizcevirici.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/804658877/dovizcevirici.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2060574163/dovizcevirici.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2060574163/dovizcevirici.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1728236516/dovizcevirici.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1728236516/dovizcevirici.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-731686495/dovizcevirici.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-731686495/dovizcevirici.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1085480697/dovizcevirici.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1085480697/dovizcevirici.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1216950396/dovizcevirici.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1216950396/dovizcevirici.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1375204254/dovizcevirici.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1375204254/dovizcevirici.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
